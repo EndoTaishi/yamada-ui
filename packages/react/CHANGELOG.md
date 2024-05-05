@@ -1,5 +1,16 @@
 # @yamada-ui/react
 
+## 1.3.10
+
+### Patch Changes
+
+- Updated dependencies [[`f932764`](https://github.com/yamada-ui/yamada-ui/commit/f932764a026888adf53d7b222cc8ddd8fd6d6c18), [`913c1d9`](https://github.com/yamada-ui/yamada-ui/commit/913c1d90ab82391a6833dfb99327e816a36c615d), [`16df3f4`](https://github.com/yamada-ui/yamada-ui/commit/16df3f4f0aceadf91a49c4cd671249652a6d65c4)]:
+  - @yamada-ui/number-input@1.1.0
+  - @yamada-ui/theme@1.6.3
+  - @yamada-ui/providers@1.0.32
+  - @yamada-ui/theme-tools@1.0.31
+  - @yamada-ui/use-media-query@1.0.32
+
 ## 1.3.9
 
 ### Patch Changes

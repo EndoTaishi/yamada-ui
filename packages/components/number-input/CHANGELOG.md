@@ -1,5 +1,12 @@
 # @yamada-ui/number-input
 
+## 1.1.0
+
+### Minor Changes
+
+- [#1372](https://github.com/yamada-ui/yamada-ui/pull/1372) [`f932764`](https://github.com/yamada-ui/yamada-ui/commit/f932764a026888adf53d7b222cc8ddd8fd6d6c18) Thanks [@hirotomoyamada](https://github.com/hirotomoyamada)! - - Enhanced aria attributes.
+  - Fixed a bug where getAriaValueText was not working.
+
 ## 1.0.28
 
 ### Patch Changes
