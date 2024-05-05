@@ -175,9 +175,9 @@ export const CONTRIBUTORS = [
   },
   {
     id: 50436249,
-    name: "ryota-k0827",
+    name: "kryota-dev",
     icon: "https://avatars.githubusercontent.com/u/50436249?v=4",
-    url: "https://github.com/ryota-k0827",
+    url: "https://github.com/kryota-dev",
   },
   {
     id: 75669598,
